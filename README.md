@@ -4,7 +4,7 @@ Python Implementation of different distance metrics and use with KNN
 # Input
 output_filename.csv
 
-Check Dataset and Scripts folder to generate Input File
+Check dataset&scripts folder to generate Input File
 
 # Source Files
 
